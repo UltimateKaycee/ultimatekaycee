@@ -9,6 +9,12 @@ html, body {
 
 /* Header Area */
 
+.header {
+    position:fixed;
+    width: 100%;
+    z-index: 1;
+}
+
 .navbar-brand {
     font-family: 'Magra', sans-serif;
     padding-left: 2%;
