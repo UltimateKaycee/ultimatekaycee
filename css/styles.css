@@ -123,6 +123,7 @@ html, body {
 
 .container-title {
     margin-top: 0%;
+    padding-top: 8%;
 
 }
 
@@ -138,7 +139,7 @@ html, body {
 }
 
 .ability-heading {
-    padding-top: 3%;
+    padding-top: 8%;
     padding-left: 2%;
     font-family: 'Rubik Dirt', cursive;
     color: #345957;
@@ -180,7 +181,7 @@ html, body {
 }
 
 .project-heading {
-    padding-top: 3%;
+    padding-top: 8%;
     padding-left: 2%;
     font-family: 'Rubik Dirt', cursive;
     color: #345957;
@@ -241,7 +242,7 @@ html, body {
 
 .contact-heading {
     padding-left: 3%;
-    padding-top: 2%;
+    padding-top: 8%;
     font-family: 'Rubik Dirt', cursive;
     color: #f6f8b3;
     text-align: left;
