@@ -14,8 +14,9 @@ html .header:ontouchstart {
 
 /* Header Area */
 
-.header:ontouchstart {
-   
+.header {
+    width: 100%;
+    z-index: 1; 
 }
 
 .navbar-brand {
