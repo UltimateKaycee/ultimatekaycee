@@ -1,9 +1,9 @@
-const date = new Date();
+var date = new Date();
 
-let yearDate = date.getFullYear();
+var yearDate = date.getFullYear();
 
-let copyRight = "© Copyright";
+var copyRight = "© Copyright";
 
-let myQuery = document.querySelector(".copy-right");
+var myQuery = document.querySelector(".copy-right");
 
 myQuery.textContent = copyRight + " " + yearDate + " UltimateKaycee";
