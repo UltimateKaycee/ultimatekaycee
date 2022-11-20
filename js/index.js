@@ -6,4 +6,4 @@ var copyRight = "© Copyright";
 
 var myQuery = document.querySelector(".copy-right");
 
-myQuery.textContent = copyRight + " " + yearDate + " UltimteKaycee";
+myQuery.textContent = copyRight + " " + yearDate + " UltimateKaycee";
